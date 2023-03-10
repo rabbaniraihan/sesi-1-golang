@@ -10,7 +10,7 @@ func main() {
 	fmt.Printf("%d\n", i)  //base 10 dari 21
 	fmt.Printf("%o\n", 25) //base 8 dari 25
 
-	fmt.Printf("%x\n", "f")    //base 16 f masih salah
+	fmt.Printf("%x\n", "f")    //base 16 f
 	fmt.Printf("%X\n", "F 13") //base 16 F 13
 
 	var j bool = true
